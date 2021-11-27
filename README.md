@@ -1,46 +1,74 @@
-# Getting Started with Create React App
+<div id="sobre"> 
+  <h1>:purple_circle: Clone Tesla</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <p>
+    Projeto desenvolvido como forma de estudo de stilizações interessantes para ser usadas em aplicação futuras.
+  </p>
+  
+  <img src="https://github.com/WelliWillers/clone_ui_tesla_website/blob/main/public/git.gif">
+</div>
 
-## Available Scripts
 
-In the project directory, you can run:
+<div id="tabela-de-conteudo"> 
+  <h1>:purple_circle: Tabela de conteúdos</h1>
+  
+  <p align="center">
+    <a href="#sobre">Sobre</a> •
+    <a href="#tabela-de-conteudo"> Tabela de conteúdo</a> • 
+    <a href="#tecnologias-usadas"> Tecnologias usadas</a> • 
+    <a href="#requisitos"> Requisitos</a> • 
+    <a href="#instalacao"> Instalação</a> • 
+   <a href="#autor"> Autor</a>
+  </p>
+</div>
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<div id="tecnologias-usadas"> 
+  <h1> :purple_circle: Tecnologias usadas</h1>
+ </div>
+ 
+- [ReactJS](https://reactjs.org/) + [Typescript](https://www.typescriptlang.org/)
+- [Styled-components](https://styled-components.com/)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
+<div id="requisitos"> 
+  <h1>:purple_circle: Requisitos</h1>
+</div>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [Visual Studio Code](https://code.visualstudio.com/)
 
-### `yarn build`
+<div id="instalacao"> 
+  <h1>:purple_circle: Instalação</h1>
+</div>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+# Clone este repositório
+$ git clone <https://github.com/WelliWillers/clone_ui_tesla_website.git>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Acesse a pasta do projeto no terminal/cmd
+$ cd clone_ui_tesla_website
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Instale as dependências
+$ yarn install
 
-### `yarn eject`
+# Execute a aplicação em modo de desenvolvimento
+$ yarn start
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# A aplicação inciará na porta:3000 - acesse <http://localhost:3000> - **deve abrir automaticamente
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<div id="autor"> 
+  <h1>:purple_circle: Autor</h1>
+</div>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<a href="https://github.com/WelliWillers">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/40187751?s=60&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Wellington Willers</b></sub></a> 🚀
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+👋🏽 Entre em contato!
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+[![Linkedin Badge](https://img.shields.io/badge/-@Wellington-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wellington-willers-24302b199/)](https://www.linkedin.com/in/wellington-willers-24302b199/) 
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wellington.willer@gmail.com)](mailto:wellington.willer@gmail.com)
